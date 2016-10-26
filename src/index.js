@@ -1,13 +1,19 @@
-// import React from 'react';
-// import {render} from 'react-dom';
-//
-// class App extends React.Component {
-//     render () {
-//         return (
-//             <div>React with hot reloading is the cats pajamas!</div>
-//         )
-//     }
-// }
-//
-// render(<App></App>, document.getElementById('app'));
-console.log("Hello");
+/*eslint-disable import/default */
+import 'babel-polyfill';    //Believe it or not babel can't transpile everything
+import React from 'react';
+import {render} from 'react-dom';
+import App from './components/app';
+import Home from './components/home/home';
+import About from './components/about/about';
+import {Route, IndexRoute, Router, browserHistory} from 'react-router';
+import './styles/styles.css';   //Webpack can import css files too
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+render ((
+    <Router history={browserHistory}>
+        <Route path="/" component={App}>
+            <IndexRoute component={Home}/>
+            <Route path="about" component={About}/>
+        </Route>
+    </Router>
+), document.getElementById('app'));
