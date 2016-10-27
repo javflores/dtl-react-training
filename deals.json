@@ -1,0 +1,407 @@
+{
+  "timeStamp": "2016-10-27T11:13:26.3883131Z",
+  "errorCode": 0,
+  "postcode": "N/A",
+  "totalBundles": 2,
+  "bundleList": [
+    {
+      "bundleType": "FibreBroadbandAndHomephone",
+      "bundleId": 3934,
+      "providerId": 2,
+      "providerName": "Virgin Media",
+      "providerLogoUrl": "https://bucket.cdndtl.co.uk/bc/ICONS_70x70/VM-99x99-NEW2014-13-05.png",
+      "customerSatisfactionRating": 0,
+      "customerSatisfactionNumberOfReviews": 0,
+      "name": "Super 50 Fibre Broadband + Talk Weekends",
+      "contractLength": 18,
+      "contractLengthDisplay": "18 months",
+      "downloadLimit": 1000,
+      "downloadLimitDisplay": "Unlimited",
+      "downloadSpeed": 51200,
+      "downloadSpeedDisplay": "50Mb",
+      "channelCount": 0,
+      "calls": 1,
+      "callsDisplay": "Weekend calls inc.",
+      "offerImage": "https://bucket.cdndtl.co.uk/bc/ICONS_70x70/Icon-bc-exclusive.png",
+      "offerExpiryDate": "2016-10-31T23:55:00Z",
+      "offerEndNote": "Ends 31 Oct",
+      "telephoneNumber": "0808 168 8180",
+      "linkTrackerUrl": "http://www.broadbandchoicespartners.co.uk/goto?LinkTrackerId=6969&source=/webapi/test&position=0&package=Super+50+Fibre+Broadband+%2b+Talk+Weekends&sourcePage=webapi&postcode=none&tsid=00000",
+      "linkTrackerId": "6969",
+      "displaySpeed": "50",
+      "offerTypeImage": "http://www.broadbandchoicespartners.co.uk/content/images/en-GB/results/exclusive.png",
+      "costsWithoutLineRental": {
+        "monthlyCostBreakdown": [
+          {
+            "month": 0,
+            "value": 9
+          },
+          {
+            "month": 1,
+            "value": 9
+          },
+          {
+            "month": 2,
+            "value": 9
+          },
+          {
+            "month": 3,
+            "value": 9
+          },
+          {
+            "month": 4,
+            "value": 9
+          },
+          {
+            "month": 5,
+            "value": 9
+          },
+          {
+            "month": 6,
+            "value": 9
+          },
+          {
+            "month": 7,
+            "value": 9
+          },
+          {
+            "month": 8,
+            "value": 9
+          },
+          {
+            "month": 9,
+            "value": 9
+          },
+          {
+            "month": 10,
+            "value": 9
+          },
+          {
+            "month": 11,
+            "value": 9
+          }
+        ],
+        "monthlyCost": 9,
+        "monthlyCostDisplay": "£9.00",
+        "monthlyCostNote": "(for 12 months)",
+        "firstYearCost": 122.99,
+        "firstYearCostDisplay": "£122.99",
+        "lineRental": 19,
+        "lineRentalDisplay": "£19.00",
+        "costBreakdown": [
+          {
+            "key": "FirstMonthsCost",
+            "description": "(for 12 months)",
+            "value": "£9.00 p/m"
+          },
+          {
+            "key": "ThereAfterCost",
+            "description": "Thereafter:",
+            "value": "£21.00 p/m"
+          }
+        ],
+        "upfrontCostAfterOffer": 14.99,
+        "upfrontCostAfterOfferDisplay": "£14.99",
+        "monthlyHardwardCost": 0,
+        "monthlyHardwardCostDisplay": null,
+        "hardwareCost": 0,
+        "hardwareCostDisplay": null,
+        "installationCost": 14.99,
+        "installationCostDisplay": "£14.99",
+        "deliveryCost": 0,
+        "deliveryCostDisplay": "£0.00",
+        "totalContractCost": 248.99,
+        "totalContractCostDisplay": "£248.99",
+        "averageMonthlyCost": 13.83,
+        "averageMonthlyCostDisplay": "£13.83"
+      },
+      "costsWithLineRental": {
+        "monthlyCostBreakdown": [
+          {
+            "month": 0,
+            "value": 28
+          },
+          {
+            "month": 1,
+            "value": 28
+          },
+          {
+            "month": 2,
+            "value": 28
+          },
+          {
+            "month": 3,
+            "value": 28
+          },
+          {
+            "month": 4,
+            "value": 28
+          },
+          {
+            "month": 5,
+            "value": 28
+          },
+          {
+            "month": 6,
+            "value": 28
+          },
+          {
+            "month": 7,
+            "value": 28
+          },
+          {
+            "month": 8,
+            "value": 28
+          },
+          {
+            "month": 9,
+            "value": 28
+          },
+          {
+            "month": 10,
+            "value": 28
+          },
+          {
+            "month": 11,
+            "value": 28
+          }
+        ],
+        "monthlyCost": 28,
+        "monthlyCostDisplay": "£28.00",
+        "monthlyCostNote": "(for 18 months)",
+        "firstYearCost": 350.99,
+        "firstYearCostDisplay": "£350.99",
+        "lineRental": 19,
+        "lineRentalDisplay": "£19.00",
+        "costBreakdown": [
+          {
+            "key": "FirstMonthsCost",
+            "description": "(for 12 months)",
+            "value": "£28.00 p/m"
+          },
+          {
+            "key": "ThereAfterCost",
+            "description": "Thereafter:",
+            "value": "£40.00 p/m"
+          }
+        ],
+        "upfrontCostAfterOffer": 14.99,
+        "upfrontCostAfterOfferDisplay": "£14.99",
+        "monthlyHardwardCost": 0,
+        "monthlyHardwardCostDisplay": null,
+        "hardwareCost": 0,
+        "hardwareCostDisplay": null,
+        "installationCost": 14.99,
+        "installationCostDisplay": "£14.99",
+        "deliveryCost": 0,
+        "deliveryCostDisplay": "£0.00",
+        "totalContractCost": 590.99,
+        "totalContractCostDisplay": "£590.99",
+        "averageMonthlyCost": 32.83,
+        "averageMonthlyCostDisplay": "£32.83"
+      },
+      "unlimitedCalls": "N/A",
+      "extras": "N/A",
+      "includesFreeCallsToLandlines": "N/A",
+      "includesFreeCallsToMobiles": "N/A",
+      "dealTypes": [
+        "FibreBroadbandAndHomephone",
+        "BroadbandAndHomephone"
+      ]
+    },
+    {
+      "bundleType": "BroadbandAndHomephone",
+      "bundleId": 200,
+      "providerId": 45,
+      "providerName": "TalkTalk",
+      "providerLogoUrl": "https://bucket.cdndtl.co.uk/bc/providerlogos/TT-purple-logo.png",
+      "customerSatisfactionRating": 0,
+      "customerSatisfactionNumberOfReviews": 0,
+      "name": "Fast Broadband (all in pricing)",
+      "contractLength": 18,
+      "contractLengthDisplay": "18 months",
+      "downloadLimit": 1001,
+      "downloadLimitDisplay": "Truly Unlimited",
+      "downloadSpeed": 17408,
+      "downloadSpeedDisplay": "17Mb",
+      "channelCount": 0,
+      "calls": 0,
+      "callsDisplay": "Pay as you go calls",
+      "offerImage": "https://bucket.cdndtl.co.uk/bc/ICONS_70x70/icon-LineRentalIncluded.png",
+      "offerExpiryDate": "2018-08-04T02:55:00Z",
+      "offerEndNote": "Ends soon",
+      "telephoneNumber": "0808 108 0354",
+      "linkTrackerUrl": "http://www.broadbandchoicespartners.co.uk/goto?LinkTrackerId=40&source=/webapi/test&position=0&package=Fast+Broadband+(all+in+pricing)&sourcePage=webapi&postcode=none&tsid=00000",
+      "linkTrackerId": "40",
+      "displaySpeed": "17",
+      "offerTypeImage": "",
+      "costsWithoutLineRental": {
+        "monthlyCostBreakdown": [
+          {
+            "month": 0,
+            "value": 22.95
+          },
+          {
+            "month": 1,
+            "value": 22.95
+          },
+          {
+            "month": 2,
+            "value": 22.95
+          },
+          {
+            "month": 3,
+            "value": 22.95
+          },
+          {
+            "month": 4,
+            "value": 22.95
+          },
+          {
+            "month": 5,
+            "value": 22.95
+          },
+          {
+            "month": 6,
+            "value": 22.95
+          },
+          {
+            "month": 7,
+            "value": 22.95
+          },
+          {
+            "month": 8,
+            "value": 22.95
+          },
+          {
+            "month": 9,
+            "value": 22.95
+          },
+          {
+            "month": 10,
+            "value": 22.95
+          },
+          {
+            "month": 11,
+            "value": 22.95
+          }
+        ],
+        "monthlyCost": 22.95,
+        "monthlyCostDisplay": "£22.95",
+        "monthlyCostNote": "",
+        "firstYearCost": 275.4,
+        "firstYearCostDisplay": "£275.40",
+        "lineRental": 0,
+        "lineRentalDisplay": "£0.00",
+        "costBreakdown": [
+          {
+            "key": "FirstMonthsCost",
+            "description": "(for 18 months)",
+            "value": "£22.95 p/m"
+          }
+        ],
+        "upfrontCostAfterOffer": 0,
+        "upfrontCostAfterOfferDisplay": "£0.00",
+        "monthlyHardwardCost": 0,
+        "monthlyHardwardCostDisplay": null,
+        "hardwareCost": 0,
+        "hardwareCostDisplay": "£0.00",
+        "installationCost": 0,
+        "installationCostDisplay": "£0.00",
+        "deliveryCost": 0,
+        "deliveryCostDisplay": "£0.00",
+        "totalContractCost": 413.1,
+        "totalContractCostDisplay": "£413.10",
+        "averageMonthlyCost": 22.95,
+        "averageMonthlyCostDisplay": "£22.95"
+      },
+      "costsWithLineRental": {
+        "monthlyCostBreakdown": [
+          {
+            "month": 0,
+            "value": 22.95
+          },
+          {
+            "month": 1,
+            "value": 22.95
+          },
+          {
+            "month": 2,
+            "value": 22.95
+          },
+          {
+            "month": 3,
+            "value": 22.95
+          },
+          {
+            "month": 4,
+            "value": 22.95
+          },
+          {
+            "month": 5,
+            "value": 22.95
+          },
+          {
+            "month": 6,
+            "value": 22.95
+          },
+          {
+            "month": 7,
+            "value": 22.95
+          },
+          {
+            "month": 8,
+            "value": 22.95
+          },
+          {
+            "month": 9,
+            "value": 22.95
+          },
+          {
+            "month": 10,
+            "value": 22.95
+          },
+          {
+            "month": 11,
+            "value": 22.95
+          }
+        ],
+        "monthlyCost": 22.95,
+        "monthlyCostDisplay": "£22.95",
+        "monthlyCostNote": "",
+        "firstYearCost": 275.4,
+        "firstYearCostDisplay": "£275.40",
+        "lineRental": 0,
+        "lineRentalDisplay": "£0.00",
+        "costBreakdown": [
+          {
+            "key": "FirstMonthsCost",
+            "description": "(for 18 months)",
+            "value": "£22.95 p/m"
+          }
+        ],
+        "upfrontCostAfterOffer": 0,
+        "upfrontCostAfterOfferDisplay": "£0.00",
+        "monthlyHardwardCost": 0,
+        "monthlyHardwardCostDisplay": null,
+        "hardwareCost": 0,
+        "hardwareCostDisplay": "£0.00",
+        "installationCost": 0,
+        "installationCostDisplay": "£0.00",
+        "deliveryCost": 0,
+        "deliveryCostDisplay": "£0.00",
+        "totalContractCost": 413.1,
+        "totalContractCostDisplay": "£413.10",
+        "averageMonthlyCost": 22.95,
+        "averageMonthlyCostDisplay": "£22.95"
+      },
+      "unlimitedCalls": "N/A",
+      "extras": "N/A",
+      "includesFreeCallsToLandlines": "N/A",
+      "includesFreeCallsToMobiles": "N/A",
+      "dealTypes": [
+        "BroadbandAndHomephone"
+      ]
+    }
+  ]
+}
