@@ -5,6 +5,8 @@ import {render} from 'react-dom';
 import App from './components/app';
 import Home from './components/home/home';
 import About from './components/about/about';
+import Tester from './components/playground/tester';
+import TesterDetail from './components/playground/tester-detail';
 import {Route, IndexRoute, Router, browserHistory} from 'react-router';
 import './styles/styles.css';   //Webpack can import css files too
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
@@ -14,6 +16,8 @@ render ((
         <Route path="/" component={App}>
             <IndexRoute component={Home}/>
             <Route path="about" component={About}/>
+            <Route path="tester" component={Tester}/>
+            <Route path="tester-detail" component={TesterDetail}/>
         </Route>
     </Router>
 ), document.getElementById('app'));
