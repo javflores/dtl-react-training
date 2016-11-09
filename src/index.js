@@ -7,6 +7,7 @@ import Home from './components/home/home';
 import About from './components/about/about';
 import Tester from './components/playground/tester';
 import TesterDetail from './components/playground/tester-detail';
+import DealsPage from './components/deals/deals-page';
 import {Route, IndexRoute, Router, browserHistory} from 'react-router';
 import './styles/styles.css';   //Webpack can import css files too
 import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
@@ -18,6 +19,7 @@ render ((
             <Route path="about" component={About}/>
             <Route path="tester" component={Tester}/>
             <Route path="tester-detail" component={TesterDetail}/>
+            <Route path="deals" component={DealsPage}/>
         </Route>
     </Router>
 ), document.getElementById('app'));
